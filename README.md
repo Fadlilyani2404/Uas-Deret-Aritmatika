@@ -1,7 +1,7 @@
 # Ujian Akhir Semester
 <br>Mata Kuliah 	: Dasar Pemograman
-<br> Nama		: Akhmad Ridlo Rifa'i
-<br>NIM		:	1227050013
+<br> Nama		: FADLIL YANI AINI SYAMSI
+<br>NIM		:	1227050041
 <br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
